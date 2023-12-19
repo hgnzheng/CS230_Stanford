@@ -10,7 +10,12 @@
 
 [DeepLearning.AI Discussion Board](https://community.deeplearning.ai/c/deep-learning-specialization/6)
 
+[Notes by Matt Deitke](https://mattdeitke.com/notes/cs230#pf8)
+
 I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https://github.com/hgnzheng/CS230_Stanford/tree/main/Deep_Learning_Specialization/Deep_Learning_Notes.pdf)
+
+## LaTeX Resources
+* [Plot Functions](https://null.zbr.pt/plotting-functions-with-latex-tikz/)
 
 ## Programming Assignments
 
