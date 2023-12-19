@@ -1,6 +1,6 @@
 # Deep Learning Specialization
 
-![](https://github.com/greyhatguy007/deep-learning-specialization/blob/main/resources/head_master.png)
+![](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/coursera_page.png)
 
 **DeepLearning.AI**
 **Instructor: [Andrew Ng](https://www.andrewng.org/)**
@@ -57,7 +57,7 @@
 
 ### Course 1: Neural Networks and Deep Learning
 
-  - Week 1 Quiz - [Introduction to deep learning]
+  - Week 1 Quiz - [Introduction to deep learning](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/Quiz/C1_W1.pdf)
   - Week 2 Quiz - [Neural Network Basics]
   - Week 3 Quiz - [Shallow Neural Networks]
   - Week 4 Quiz - [Key concepts on Deep Neural Networks]
