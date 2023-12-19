@@ -1,4 +1,7 @@
-# CS 230 Deep Learning at Stanford University, taught by Prof. Andrew Ng.
+# CS 230: Deep Learning
+
+**Stanford University**
+**Instructor: Andrew Ng**
 
 [Course Website](https://cs230.stanford.edu/)
 
