@@ -14,6 +14,8 @@
 
 I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https://github.com/hgnzheng/CS230_Stanford/tree/main/Deep_Learning_Specialization/Deep_Learning_Notes.pdf)
 
+*Note: As per Coursera **Deep Learning Honor Code**, students are not allowed to post code publicly on GitHub. In adherence to the Honor Code, I will not be posting my code solutions.*
+
 ## LaTeX Resources
 * [Plot Functions](https://null.zbr.pt/plotting-functions-with-latex-tikz/)
 
@@ -22,7 +24,7 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
 ### Course 1: Neural Networks and Deep Learning
 
   * Week 1 - First week doesn't have any Programming Assignment
-  * [Week 2 - Programming Assignment(1) - Logistic Regression with a Neural Network mindset]
+  * Week 2 - Programming Assignment(1) - Logistic Regression with a Neural Network mindset
   * [Week 3 - Programming Assignment(1) - Planar data classification with one hidden layer]
   * [Week 4 - Programming Assignment(1) - Building your Deep Neural Network: Step by Step]
   * [Week 4 - Programming Assignment(2) - Deep Neural Network for Image Classification: Application]
