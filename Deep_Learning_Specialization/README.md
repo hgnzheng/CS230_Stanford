@@ -61,8 +61,6 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
   * [Week 3 - Programming Assignment(1) - Neural Machine Translation]
   * [Week 3 - Programming Assignment(2) - Trigger Word Detection]
   * [Week 4 - Programming Assignment(1) -  Transformers Architecture with TensorFlow]
-  
-
 
 ## Quiz Solutions
 
