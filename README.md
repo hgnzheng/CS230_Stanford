@@ -5,7 +5,7 @@
 
 [Course Website](https://cs230.stanford.edu/)
 
-[Stanford Online Playlist](https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+[Lecture Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 
 I'm self-learning this class through YouTube to
 * Take a step further and explore more about deep learning.
@@ -15,3 +15,8 @@ I'll gain a more thorough understanding by learning from supplementary materials
 
 To get a solid understanding of course material, I am also doing the following activities during the winter break:
 * Making progress in Deep Learning Specialization on Coursera.
+
+## Reference
+* [Geoffrey E. Hinton Coursera Lecture Series](https://www.cs.toronto.edu/~hinton/coursera_lectures.html) | [Slides](https://www.cs.toronto.edu/~hinton/coursera_slides.html)
+* [Deep Learning](https://www.deeplearningbook.org/) textbook by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+* [Dive into Deep Learning](https://d2l.ai/)
