@@ -68,7 +68,7 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
 
   * Week 1 Quiz - [Introduction to deep learning](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/Quiz/C1_W1.pdf)
   * Week 2 Quiz - [Neural Network Basics](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/Quiz/C1_W2.pdf)
-  * Week 3 Quiz - [Shallow Neural Networks]
+  * Week 3 Quiz - [Shallow Neural Networks](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/Quiz/C1_W3.pdf)
   * Week 4 Quiz - [Key concepts on Deep Neural Networks]
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
