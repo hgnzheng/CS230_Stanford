@@ -7,6 +7,8 @@
 
 [Lecture Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 
+[Notes of Hinton's Lecture Series](https://github.com/hgnzheng/CS230_Stanford/tree/main/Hinton_notes)
+
 I'm self-learning this class through YouTube to
 * Take a step further and explore more about deep learning.
 * Get a head start on concepts to my DL classes next quarter, so I will be more prepared.
