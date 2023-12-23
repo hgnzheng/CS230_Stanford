@@ -95,3 +95,5 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
   * Week 2 Quiz - [Natural Language Processing & Word Embeddings]
   * Week 3 Quiz - [Sequence models & Attention mechanism]
   * Week 4 Quiz - [Transformers]
+
+*Note: Quizzes serve as checkpoints of your own understanding of the course materials. Please do not rely on the solutions in this repository to pass the weekly quizzes! Solutions are posted here for record and reference learning resources.*
