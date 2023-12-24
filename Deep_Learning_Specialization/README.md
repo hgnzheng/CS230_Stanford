@@ -86,7 +86,7 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
-  * Week 1 Quiz - [Practical aspects of deep learning]
+  * Week 1 Quiz - [Practical aspects of deep learning](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/Quiz/C2_W1.pdf)
   * Week 2 Quiz - [Optimization algorithms]
   * Week 3 Quiz - [Hyperparameter tuning, Batch Normalization, Programming Frameworks]
   
