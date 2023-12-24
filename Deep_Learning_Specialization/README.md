@@ -19,6 +19,19 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
 ## LaTeX Resources
 * [Plot Functions](https://null.zbr.pt/plotting-functions-with-latex-tikz/)
 
+## Certificates
+
+### [Course 1: Neural Networks and Deep Learning](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/course_1.pdf)
+
+### [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization]
+
+### [Course 3: Structuring Machine Learning Projects]
+
+### [Course 4: Convolutional Neural Networks]
+
+### [Course 5: Sequence Models]
+
+
 ## Programming Assignments
 
 ### Course 1: Neural Networks and Deep Learning
@@ -26,8 +39,8 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
   * Week 1 - First week doesn't have any Programming Assignment
   * Week 2 - Programming Assignment(1) - Logistic Regression with a Neural Network mindset
   * Week 3 - Programming Assignment(1) - Planar data classification with one hidden layer
-  * [Week 4 - Programming Assignment(1) - Building your Deep Neural Network: Step by Step]
-  * [Week 4 - Programming Assignment(2) - Deep Neural Network for Image Classification: Application]
+  * Week 4 - Programming Assignment(1) - Building your Deep Neural Network: Step by Step
+  * Week 4 - Programming Assignment(2) - Deep Neural Network for Image Classification: Application
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
