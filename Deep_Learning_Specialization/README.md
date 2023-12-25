@@ -88,7 +88,7 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
 
   * Week 1 Quiz - [Practical aspects of deep learning](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/Quiz/C2_W1.pdf)
   * Week 2 Quiz - [Optimization algorithms](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/Quiz/C2_W2.pdf)
-  * Week 3 Quiz - [Hyperparameter tuning, Batch Normalization, Programming Frameworks]
+  * Week 3 Quiz - [Hyperparameter tuning, Batch Normalization, Programming Frameworks](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/Quiz/C2_W3.pdf)
   
 ### Course 3: Structuring Machine Learning Projects
 
