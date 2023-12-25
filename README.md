@@ -1,7 +1,8 @@
 # CS 230: Deep Learning
 
 **Stanford University**
-**Instructor: Andrew Ng**
+
+**Instructor: [Andrew Ng](https://www.andrewng.org/)**
 
 [Course Website](https://cs230.stanford.edu/)
 
