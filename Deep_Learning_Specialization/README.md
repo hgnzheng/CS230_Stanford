@@ -44,9 +44,9 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
-  * [Week 1 - Programming Assignment(1) - Initialization]
-  * [Week 1 - Programming Assignment(2) - Regularization]
-  * [Week 1 - Programming Assignment(3) - Gradient Checking]
+  * Week 1 - Programming Assignment(1) - Initialization
+  * Week 1 - Programming Assignment(2) - Regularization
+  * Week 1 - Programming Assignment(3) - Gradient Checking
   * [Week 2 - Programming Assignment(1) - Optimization Methods]
   * [Week 3 - Programming Assignment(1) - TensorFlow Tutorial]
 
