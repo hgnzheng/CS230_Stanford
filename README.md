@@ -1,7 +1,6 @@
 # CS 230: Deep Learning
 [![GitHub Repo](https://img.shields.io/badge/Deep%20Learning%20at%20Stanford-red?logo=github&style=flat-square)](https://github.com/hgnzheng/CS230_Stanford/tree/main/)
 
----
 **Stanford University**
 
 **Instructor: [Andrew Ng](https://www.andrewng.org/)**
@@ -12,6 +11,7 @@
 
 [Notes of Hinton's Lecture Series](https://github.com/hgnzheng/CS230_Stanford/tree/main/Hinton_notes)
 
+---
 ## Relevant Courses
 
 ### [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
