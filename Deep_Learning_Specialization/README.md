@@ -94,7 +94,7 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
   
 ### Course 3: Structuring Machine Learning Projects
 
-  * Week 1 Quiz - [Bird recognition in the city of Peacetopia (case study)]
+  * Week 1 Quiz - [Bird recognition in the city of Peacetopia (case study)](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/Quiz/C3_W1.pdf)
   * Week 2 Quiz - [Autonomous driving (case study)]
 
 ### Course 4: Convolutional Neural Networks
