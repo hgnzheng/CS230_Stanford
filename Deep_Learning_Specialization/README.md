@@ -1,7 +1,9 @@
 # Deep Learning Specialization
+[![GitHub Repo](https://img.shields.io/badge/Deep%20Learning%20Sepcialization%20Repository-blueviolet?logo=github&style=flat-square)](https://github.com/hgnzheng/CS230_Stanford/tree/main/Deep_Learning_Specialization)
 
 ![](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/coursera_page.png)
 
+---
 **DeepLearning.AI**
 
 **Instructor: [Andrew Ng](https://www.andrewng.org/)**
