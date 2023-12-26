@@ -23,7 +23,7 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
 
 ### [Course 1: Neural Networks and Deep Learning](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/course_1.pdf)
 
-### [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization]
+### [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/course_2.pdf)
 
 ### [Course 3: Structuring Machine Learning Projects]
 
