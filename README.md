@@ -22,7 +22,7 @@
 * [2017 Lecture Playlist](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 ### [EECS 498-007/598-005: Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/) at University of Michigan
-* Prof. Justin Johnson, who was the main instructor the Stanford course in 2017, taught this updated version of the course at University of Michigan, which covers more recent topics like like Attention, 3D construction, etc. The course was make available to general public via Michigan Online.
+* Prof. Justin Johnson, who was the main instructor of the Stanford course in 2017, taught this updated version of the course at University of Michigan, which covers more recent topics like like Attention, 3D construction, etc. The course was make available to general public via Michigan Online.
 * [2019 Lecture Playlist](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
 ### [CS 182: Deep Neural Networks](https://inst.eecs.berkeley.edu/~cs182/fa23/) at UC Berkeley
