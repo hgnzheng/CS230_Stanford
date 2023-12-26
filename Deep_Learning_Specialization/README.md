@@ -48,7 +48,9 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
   * Week 1 - Programming Assignment(2) - Regularization
   * Week 1 - Programming Assignment(3) - Gradient Checking
   * Week 2 - Programming Assignment(1) - Optimization Methods
-  * [Week 3 - Programming Assignment(1) - TensorFlow Tutorial]
+  * Week 3 - Programming Assignment(1) - TensorFlow Tutorial
+
+*Note: For Week 3 PA, we would need to use TensorFlow version 2.3.0. Using 2.15.0 would fail some tests, as it calculates sigmoid differently.*
 
 ### Course 3: Structuring Machine Learning Projects
 
