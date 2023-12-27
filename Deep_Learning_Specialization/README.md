@@ -27,7 +27,7 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
 
 ### [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/course_2.pdf)
 
-### [Course 3: Structuring Machine Learning Projects]
+### [Course 3: Structuring Machine Learning Projects](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/course_3.pdf)
 
 ### [Course 4: Convolutional Neural Networks]
 
@@ -97,7 +97,7 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
 ### Course 3: Structuring Machine Learning Projects
 
   * Week 1 Quiz - [Bird recognition in the city of Peacetopia (case study)](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/Quiz/C3_W1.pdf)
-  * Week 2 Quiz - [Autonomous driving (case study)]
+  * Week 2 Quiz - [Autonomous driving (case study)](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/Quiz/C3_W2.pdf)
 
 ### Course 4: Convolutional Neural Networks
 
