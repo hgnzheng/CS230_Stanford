@@ -25,7 +25,7 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
 
 * Course 1: Neural Networks and Deep Learning <details>
     <summary>Show Certificate</summary><p>
-      [<img src="https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/course_1.pdf" />](https://www.coursera.org/verify/LUF8GRC34NRJ)
+      [<img src="https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/course_1.pdf" />](https://coursera.org/share/d38eba66258492ea93fa511949cc74e6)
   </p></details>
 
 ### [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/course_2.pdf)
