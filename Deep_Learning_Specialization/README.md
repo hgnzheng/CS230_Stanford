@@ -5,7 +5,7 @@
 ![](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/coursera_page.png)
 
 ---
-[<img src="https://github.com/williamcwi/hgnzheng/CS230_Stanford/tree/main/Deep_Learning_Specialization/deep_learning_ai_logo.png" width="200"/>](https://www.deeplearning.ai)
+[<img src="https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/deep_learning_ai_logo.png" width="200"/>](https://www.deeplearning.ai)
 
 **Instructor: [Andrew Ng](https://www.andrewng.org/)**
 
