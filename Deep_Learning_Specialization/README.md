@@ -21,9 +21,14 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
 ## LaTeX Resources
 * [Plot Functions](https://null.zbr.pt/plotting-functions-with-latex-tikz/)
 
-## Certificates
+## Course Certificates
 
-### [Course 1: Neural Networks and Deep Learning](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/course_1.pdf)
+* Course 1: Neural Networks and Deep Learning <details>
+<summary>Show Certificate</summary><p>
+
+      [<img src="https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/course_1.pdf" />](https://www.coursera.org/verify/LUF8GRC34NRJ)
+
+  </p></details>
 
 ### [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/course_2.pdf)
 
