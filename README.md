@@ -1,6 +1,6 @@
 # CS 230: Deep Learning
-[![GitHub Repo](https://img.shields.io/badge/Deep%20Learning%20at%20Stanford-red?logo=github&style=flat-square)](https://github.com/hgnzheng/CS230_Stanford/tree/main/)
-![GitHub last commit](https://img.shields.io/github/last-commit/hgnzheng/CS230_Stanford/?style=flat-square)
+[![GitHub Repo](https://img.shields.io/badge/Deep%20Learning%20at%20Stanford-blueviolet?logo=github&style=flat-square)](https://github.com/hgnzheng/CS230_Stanford/tree/main/)
+![GitHub last commit](https://img.shields.io/github/last-commit/hgnzheng/CS230_Stanford?style=flat-square)
 
 **Stanford University**
 
