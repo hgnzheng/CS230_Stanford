@@ -24,7 +24,7 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
 ## Course Certificates
 
 * Course 1: Neural Networks and Deep Learning <details>
-<summary>Show Certificate</summary><p>
+    <summary>Show Certificate</summary><p>
 
       [<img src="https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/course_1.pdf" />](https://www.coursera.org/verify/LUF8GRC34NRJ)
 
