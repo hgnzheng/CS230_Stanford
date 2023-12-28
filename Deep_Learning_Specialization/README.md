@@ -25,16 +25,7 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
 
 * Course 1: Neural Networks and Deep Learning <details>
     <summary>Show Certificate</summary><p>
-
       [<img src="https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/course_1.pdf" />](https://www.coursera.org/verify/LUF8GRC34NRJ)
-
-  </p></details>
-
-  - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/master/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning) <details>
-    <summary>Show Certificate</summary><p>
-
-      [<img src="https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/master/misc/certificates/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning.jpg" />](https://coursera.org/verify/4WL4PB9D583Q)
-
   </p></details>
 
 ### [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/course_2.pdf)
