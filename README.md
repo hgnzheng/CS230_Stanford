@@ -2,7 +2,7 @@
 [![GitHub Repo](https://img.shields.io/badge/Deep%20Learning%20at%20Stanford-blueviolet?logo=github&style=flat-square)](https://github.com/hgnzheng/CS230_Stanford/tree/main/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hgnzheng/CS230_Stanford?style=flat-square)
 
-[<img src="https://github.com/hgnzheng/CS230_Stanford/blob/main/stanford_logo.jpg" width="200"/>](https://www.stanford.edu/)
+[<img src="https://github.com/hgnzheng/CS230_Stanford/blob/main/stanford_logo.png" width="200"/>](https://www.stanford.edu/)
 
 **Instructor: [Andrew Ng](https://www.andrewng.org/)**
 
