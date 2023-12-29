@@ -98,7 +98,7 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
 ### Course 4: Convolutional Neural Networks
 
   * Week 1 Quiz - [The basics of ConvNets](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/Quiz/C4_W1.pdf)
-  * Week 2 Quiz - [Deep convolutional models]
+  * Week 2 Quiz - [Deep convolutional models](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/Quiz/C4_W2.pdf)
   * Week 3 Quiz - [Detection algorithms]
   * Week 4 Quiz - [Special applications: Face recognition & Neural style transfer]
 
