@@ -58,8 +58,8 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
 
   * Week 1 - Programming Assignment(1) - Convolutional Model, Step by Step
   * Week 1 - Programming Assignment(2) - Convolution Model Application
-  * [Week 2 - Programming Assignment(1) - Residual Networks]
-  * [Week 2 - Programming Assignment(2) - Transfer Learning with MobileNet]
+  * Week 2 - Programming Assignment(1) - Residual Networks
+  * Week 2 - Programming Assignment(2) - Transfer Learning with MobileNet
   * [Week 3 - Programming Assignment(1) - Car detection with YOLO]
   * [Week 3 - Programming Assignment(2) - Image Segmentation with U-Net]
   * [Week 4 - Programming Assignment(1) - Face Recognition]
