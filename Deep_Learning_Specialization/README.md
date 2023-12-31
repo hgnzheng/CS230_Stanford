@@ -26,7 +26,7 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
 * [Course 1: Neural Networks and Deep Learning](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/course_1.pdf)
 * [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/course_2.pdf)
 * [Course 3: Structuring Machine Learning Projects](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/course_3.pdf)
-* [Course 4: Convolutional Neural Networks]
+* [Course 4: Convolutional Neural Networks](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/course_4.pdf)
 * [Course 5: Sequence Models]
 
 
@@ -62,8 +62,8 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
   * Week 2 - Programming Assignment(2) - Transfer Learning with MobileNet
   * Week 3 - Programming Assignment(1) - Car detection with YOLO
   * Week 3 - Programming Assignment(2) - Image Segmentation with U-Net
-  * [Week 4 - Programming Assignment(1) - Face Recognition]
-  * [Week 4 - Programming Assignment(2) - Art Generation with Neural Style Transfer]
+  * Week 4 - Programming Assignment(1) - Face Recognition
+  * Week 4 - Programming Assignment(2) - Art Generation with Neural Style Transfer
 
 ### Course 5: Sequence Models
 
