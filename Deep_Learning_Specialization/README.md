@@ -100,7 +100,7 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
   * Week 1 Quiz - [The basics of ConvNets](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/Quiz/C4_W1.pdf)
   * Week 2 Quiz - [Deep convolutional models](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/Quiz/C4_W2.pdf)
   * Week 3 Quiz - [Detection algorithms](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/Quiz/C4_W3.pdf)
-  * Week 4 Quiz - [Special applications: Face recognition & Neural style transfer]
+  * Week 4 Quiz - [Special applications: Face recognition & Neural style transfer](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/Quiz/C4_W4.pdf)
 
 ### Course 5: Sequence Models
 
