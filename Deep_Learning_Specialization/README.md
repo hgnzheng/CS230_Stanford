@@ -67,9 +67,9 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
 
 ### Course 5: Sequence Models
 
-  * [Week 1 - Programming Assignment(1) - Building a Recurrent Neural Network - Step by Step]
-  * [Week 1 - Programming Assignment(2) - Dinosaur Island-Character-Level Language Modeling]
-  * [Week 1 - Programming Assignment(3) - Jazz improvisation with LSTM]
+  * Week 1 - Programming Assignment(1) - Building a Recurrent Neural Network - Step by Step
+  * Week 1 - Programming Assignment(2) - Dinosaur Island-Character-Level Language Modeling
+  * Week 1 - Programming Assignment(3) - Jazz improvisation with LSTM
   * [Week 2 - Programming Assignment(1) - Operations on Word Vectors - Debiasing]
   * [Week 3 - Programming Assignment(1) - Neural Machine Translation]
   * [Week 3 - Programming Assignment(2) - Trigger Word Detection]
