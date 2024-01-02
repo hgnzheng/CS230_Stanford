@@ -70,10 +70,12 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
   * Week 1 - Programming Assignment(1) - Building a Recurrent Neural Network - Step by Step
   * Week 1 - Programming Assignment(2) - Dinosaur Island-Character-Level Language Modeling
   * Week 1 - Programming Assignment(3) - Jazz improvisation with LSTM
-  * [Week 2 - Programming Assignment(1) - Operations on Word Vectors - Debiasing]
-  * [Week 3 - Programming Assignment(1) - Neural Machine Translation]
+  * Week 2 - Programming Assignment(1) - Operations on Word Vectors - Debiasing
+  * Week 3 - Programming Assignment(1) - Neural Machine Translation
   * [Week 3 - Programming Assignment(2) - Trigger Word Detection]
   * [Week 4 - Programming Assignment(1) -  Transformers Architecture with TensorFlow]
+
+*Note: For Week 3 PA2, make sure to run `pip install --upgrade emoji==1.6.3` to avoid error messages due to updates of `emoji` package. Also, although section 1.4 writeup says the training process will take about 5 minutes, it took me about 5 minutes to run each 100 epochs -- 20 minutes for a total of 400 default iterations. It's possible to speed up the process with GPU. 96.2% training accuracy is obtained after 100th epoch. 100% training accuracy is obtained after 200 epochs. In section 2.4, the model type should be `<class 'keras.src.engine.functional.Functional'>`, so the assert will fail.*
 
 ## Weekly Quizzes
 
