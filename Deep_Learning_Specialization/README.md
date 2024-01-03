@@ -105,7 +105,7 @@ My complete notes for the specialization can be found [here](https://github.com/
 
   * Week 1 Quiz - [Recurrent Neural Networks](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/Quiz/C5_W1.pdf)
   * Week 2 Quiz - [Natural Language Processing & Word Embeddings](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/Quiz/C5_W2.pdf)
-  * Week 3 Quiz - [Sequence models & Attention mechanism]
+  * Week 3 Quiz - [Sequence models & Attention mechanism](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/Quiz/C5_W3.pdf)
   * Week 4 Quiz - [Transformers](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/Quiz/C5_W4.pdf)
 
 *Note: Quizzes serve as checkpoints of your own understanding of the course materials. Please do not rely on the solutions in this repository to pass the weekly quizzes! Solutions are posted here for record and reference learning resources.*
