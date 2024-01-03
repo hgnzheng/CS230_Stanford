@@ -18,6 +18,8 @@ My complete notes for the specialization can be found [here](https://github.com/
 
 ## Course Certificates
 
+![](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/specialization.png)
+
 * [Course 1: Neural Networks and Deep Learning](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/course_1.pdf)
 * [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/course_2.pdf)
 * [Course 3: Structuring Machine Learning Projects](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/course_3.pdf)
