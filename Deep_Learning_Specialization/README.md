@@ -12,14 +12,9 @@
 
 [DeepLearning.AI Discussion Board](https://community.deeplearning.ai/c/deep-learning-specialization/6)
 
-[Notes by Matt Deitke](https://mattdeitke.com/notes/cs230#pf8)
-
-I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https://github.com/hgnzheng/CS230_Stanford/tree/main/Deep_Learning_Specialization/Deep_Learning_Notes.pdf)
+My complete notes for the specialization can be found [here](https://github.com/hgnzheng/CS230_Stanford/tree/main/Deep_Learning_Specialization/Deep_Learning_Notes.pdf)
 
 *Note: As per Coursera **Deep Learning Honor Code**, students are not allowed to post code publicly on GitHub. In adherence to the Honor Code, I will not be posting my code solutions.*
-
-## LaTeX Resources
-* [Plot Functions](https://null.zbr.pt/plotting-functions-with-latex-tikz/)
 
 ## Course Certificates
 
@@ -27,7 +22,7 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
 * [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/course_2.pdf)
 * [Course 3: Structuring Machine Learning Projects](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/course_3.pdf)
 * [Course 4: Convolutional Neural Networks](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/course_4.pdf)
-* [Course 5: Sequence Models]
+* [Course 5: Sequence Models](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/certificates/course_5.pdf)
 
 
 ## Programming Assignments
@@ -72,8 +67,8 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
   * Week 1 - Programming Assignment(3) - Jazz improvisation with LSTM
   * Week 2 - Programming Assignment(1) - Operations on Word Vectors - Debiasing
   * Week 3 - Programming Assignment(1) - Neural Machine Translation
-  * [Week 3 - Programming Assignment(2) - Trigger Word Detection]
-  * [Week 4 - Programming Assignment(1) -  Transformers Architecture with TensorFlow]
+  * Week 3 - Programming Assignment(2) - Trigger Word Detection
+  * Week 4 - Programming Assignment(1) -  Transformers Architecture with TensorFlow
 
 *Note: For Week 3 PA2, make sure to run `pip install --upgrade emoji==1.6.3` to avoid error messages due to updates of `emoji` package. Also, although section 1.4 writeup says the training process will take about 5 minutes, it took me about 5 minutes to run each 100 epochs -- 20 minutes for a total of 400 default iterations. It's possible to speed up the process with GPU. 96.2% training accuracy is obtained after 100th epoch. 100% training accuracy is obtained after 200 epochs. In section 2.4, the model type should be `<class 'keras.src.engine.functional.Functional'>`, so the assert will fail.*
 
@@ -109,6 +104,6 @@ I'm taking notes via LaTeX. My most up-to-date notes can be found [here](https:/
   * Week 1 Quiz - [Recurrent Neural Networks](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/Quiz/C5_W1.pdf)
   * Week 2 Quiz - [Natural Language Processing & Word Embeddings](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/Quiz/C5_W2.pdf)
   * Week 3 Quiz - [Sequence models & Attention mechanism]
-  * Week 4 Quiz - [Transformers]
+  * Week 4 Quiz - [Transformers](https://github.com/hgnzheng/CS230_Stanford/blob/main/Deep_Learning_Specialization/Quiz/C5_W4.pdf)
 
 *Note: Quizzes serve as checkpoints of your own understanding of the course materials. Please do not rely on the solutions in this repository to pass the weekly quizzes! Solutions are posted here for record and reference learning resources.*
